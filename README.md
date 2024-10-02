@@ -1,4 +1,4 @@
-![MPO Project Visualization](image/output_image.png)
+![MPO Project Visualization](/output_image.png)
 
 
 
