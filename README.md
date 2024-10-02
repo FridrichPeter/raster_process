@@ -1,3 +1,7 @@
+![MPO Project Visualization](image/output_image.png)
+
+
+
 # Rastre Analysis
 
 This notebook performs analysis and visualization on raster data related to the **MPO project**. The analysis focuses on handling and visualizing spatial data, specifically in the context of raster-based flood maps, velocities, and directions.
